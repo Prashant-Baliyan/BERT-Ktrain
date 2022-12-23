@@ -17,7 +17,7 @@ VERSION = "0.0.3"
 AUTHOR = "Prashant Baliyan"
 DESCRIPTION = "BERT-Ktrain"
 PACKAGES = "src"
-REQUIREMENTS_FILE_NAME = 'requirements.txt'
+REQUIREMENTS_FILE_NAME = 'requirement.txt'
 
 setup(
 name = PROJECTNAME,

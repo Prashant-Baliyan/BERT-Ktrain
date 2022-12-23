@@ -1,5 +1,7 @@
 flask
 ktrain
+notebook
+scikit-learn
 pandas
 numpy
 gunicorn
