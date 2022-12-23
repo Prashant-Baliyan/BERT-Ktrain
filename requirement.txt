@@ -1,4 +1,5 @@
 flask
+ktrain
 pandas
 numpy
 gunicorn
